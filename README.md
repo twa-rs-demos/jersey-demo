@@ -7,7 +7,7 @@
 ##  运行 demo
 1. [~] $: cd jersey-demo
 2. [jersey-demo] $: gradle build
-3. [jersey-demo] $: gradle -q run
+3. [jersey-demo] $: gradle jettyRun
 
 此时，在控制台下应该可以看到类似如下的输出：
 ```shell
