@@ -3,7 +3,7 @@
 
 ## 配置环境
 1. 安装JDK
-  `sudo apt-get update`
+  `sudo apt-get update`　
   `sudo apt-get install openjdk-8-jdk`
 2. 安装 Gradle `sudo apt install gradle`
 
