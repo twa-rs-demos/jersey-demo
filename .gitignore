@@ -87,6 +87,7 @@ modules.xml
 
 # Package Files #
 *.jar
+!gradle/wrapper/*
 *.war
 *.ear
 
