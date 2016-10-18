@@ -1,9 +1,13 @@
 # jersey-demo
 
 ## 配置环境
-1. 安装JDK  
+###1. 安装JDK
   `sudo apt-get update`　  
   `sudo apt-get install openjdk-8-jdk`
+###2. 安装 Gradle　
+   **Ubuntu 16.4：** 具体参考[这里](http://www.jianshu.com/p/6c3a5d071c64) 或者[官网安装](https://gradle.org/gradle-download/)　
+   **Mac:** 执行 ./gradlew　
+   **Windows:** gradlew.bat
 
 ##  运行 demo
 1. [~] $: cd jersey-demo
