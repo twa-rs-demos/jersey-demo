@@ -6,4 +6,4 @@
 #########################################################################
 #!/bin/bash
 
-firefox localhost:8080/jersey-demo/hello 
+firefox localhost:8080/jersey-demo/hello &
